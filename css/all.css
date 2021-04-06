@@ -1,0 +1,7 @@
+ul.playlist {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 260px;
+	float: left;
+}
